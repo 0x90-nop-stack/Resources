@@ -126,6 +126,22 @@ https://www.iec.ch/cyber-security
 
 https://www.enisa.europa.eu/topics/standards/standards
 
+## THREAT INTELLIGENCE:
+
+https://talosintelligence.com/reputation
+
+https://otx.alienvault.com/
+
+https://abuse.ch/#platforms
+
+https://www.phishtool.com/
+
+https://virusshare.com/
+
+https://threatfeeds.io/
+
+https://metadefender.opswat.com/
+
 ## EDUCATIONAL:
 
 https://portswigger.net/web-security/learning-path
