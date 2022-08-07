@@ -114,6 +114,8 @@ https://www.iotsecurityfoundation.org/best-practice-guidelines
 
 https://www.cfr.gov.au/publications/policy-statements-and-other-reports/2022/revised-corie-framework-rollout/pdf/corie-framework.pdf
 
+https://www.opswat.com/products/oesis-framework
+
 ## STANDARDS:
 
 https://www.pcisecuritystandards.org
