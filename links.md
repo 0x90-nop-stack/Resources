@@ -150,9 +150,13 @@ https://portswigger.net/web-security/learning-path
 
 https://www.splunk.com/en_us/training.html
 
-https://owasp.org/www-project-web-security-testing-guide/v41/
+https://owasp.org/www-project-web-security-testing-guide/stable/
 
 https://owasp.org/www-project-juice-shop/
+
+https://application.security/free/owasp-top-10
+
+https://application.security/free/owasp-top-10-API
 
 ## GOVERNMENT:
 
